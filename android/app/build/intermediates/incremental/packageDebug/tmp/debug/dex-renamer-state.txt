@@ -1,0 +1,4 @@
+#Thu Nov 26 15:40:33 CST 2020
+base.0=E\:\\yeweilin\\codes\\basic_app\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
