@@ -42,3 +42,7 @@ function getData(params,reqPath,reqType){
     }
     
 }
+module.exports = {
+    getData,
+    url:domainPath.url
+}
